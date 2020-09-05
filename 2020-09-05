@@ -1,12 +1,12 @@
-Refactoring to Microservices
-- Stop Digging
-- Split Frontend and Backend
-- Extract Services
+1. Refactoring to Microservices
+  a. Stop Digging
+  b. Split Frontend and Backend
+  c. Extract Services
 
-1) https://www.facebook.com/andrew.blog.0928/videos/545139382528011/
+2. https://www.facebook.com/andrew.blog.0928/videos/545139382528011/
 
-2) https://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/
+3. https://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/
 
-3) https://www.mongodb.com/blog/post/on-selecting-a-shard-key-for-mongodb
+4. https://www.mongodb.com/blog/post/on-selecting-a-shard-key-for-mongodb
 
-4) https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding
+5. https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding
