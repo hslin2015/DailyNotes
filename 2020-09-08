@@ -1,0 +1,4 @@
+1. [心得][英文] 如何命名「檢查」功能２
+  a. bool ValidateAge(string age)
+  b. bool VerifyAge(int age
+  c. CheckAge()
