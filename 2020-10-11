@@ -1,4 +1,4 @@
-  
 1. 通用源码阅读指导书
-  a. execptions
-  b. reflection
+  a. exceptions包
+  b. reflection包
+  c. annotations包与lang包
